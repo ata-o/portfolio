@@ -17,7 +17,7 @@ title: saritas
 email: onuratasaritas@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   a curious and hard-working software person. this is my site. yep.
-github_username: onuratasaritas
+github_username: ata-o
 minimal_mistakes_skin: dark
 search: false
 
@@ -64,7 +64,7 @@ author:
       url: "https://saritas.dev"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/onuratasaritas"
+      url: "https://github.com/ata-o"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/onuratasaritas"
@@ -73,7 +73,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/onuratasaritas"
+      url: "https://github.com/ata-o"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/onuratasaritas"
